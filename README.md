@@ -1,2 +1,2 @@
-# desafio_rocketportifolio
+# desafio_rocketportfolio
 Desafio portifólio, reproduzindo exemplo da Rocketseat
