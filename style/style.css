@@ -169,9 +169,17 @@
 
 .projetos .icone_titulo{
     display: inline-block;
+    vertical-align: middle;
     margin-left: 0px;
     filter: invert(51%) sepia(18%) saturate(474%) hue-rotate(209deg) brightness(95%) contrast(89%);
     height: 20px;
+}
+.projetos .titulo_de_repositorio{
+    vertical-align: middle;
+    display: inline-block;
+    height: 20px;
+    line-height: 12px;
+    padding-top: 11px;
 }
 
 .foto_postagem{
