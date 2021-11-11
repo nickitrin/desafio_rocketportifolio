@@ -93,7 +93,7 @@
 
 }
 
-.projetos div{
+.projetos a{
     font-family: 'Merriweather Sans', sans-serif;
     border-radius: 15px;
     line-height: 50px;
@@ -101,6 +101,7 @@
     padding: 25px;
     width: 100%;
     margin:  0px 10px;
+    color: #837E9F;
     background-color: #302F3D;
     box-shadow: 3px 5px 5px rgba(0, 0, 0, 0.2);
 }
@@ -169,6 +170,7 @@
 }
 
 .icone_titulo{
+    display: inline-block;
     filter: invert(51%) sepia(18%) saturate(474%) hue-rotate(209deg) brightness(95%) contrast(89%);
     height: 20px;
 }
