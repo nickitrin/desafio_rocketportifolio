@@ -69,7 +69,7 @@
 }
 
 .conteudo{
-    margin: 2px;
+    margin: 2px 30px 2px 2px;
     width: 70%;
 }
 .contato img{
@@ -109,9 +109,7 @@
     font-size: 14px;
     font-weight: 700;
 }
-.projetos img{
-    margin: -2px 10px;
-}
+
 
 .titulo_posts{
     font-weight: 700;
@@ -169,8 +167,9 @@
     align-items: center;
 }
 
-.icone_titulo{
+.projetos .icone_titulo{
     display: inline-block;
+    margin-left: 0px;
     filter: invert(51%) sepia(18%) saturate(474%) hue-rotate(209deg) brightness(95%) contrast(89%);
     height: 20px;
 }
